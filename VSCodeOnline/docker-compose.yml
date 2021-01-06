@@ -9,7 +9,7 @@ services:
       - PGID=1000
       - TZ=Europe/London
       - PASSWORD=mypassword__youwillnotknowit #optional
-      - SUDO_PASSWORD=codeonlineisidore #optional
+      - SUDO_PASSWORD=tamere #optional
       - PROXY_DOMAIN=code-server.my.domain #optional
     volumes:
       - /home/pirate/VSCodeOnline/config:/config
